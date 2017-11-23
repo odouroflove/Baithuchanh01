@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baithuchanh01</string>
+    <string name="dangky">Đăng ký tài khoản</string>
+    <string name="tentaikhoan">Tên tài khoản</string>
+    <string name="matkhau">Mật khẩu</string>
+    <string name="dangnhap_button">Đăng nhập</string>
+    <string name="fogot_user_pass">Quên tài khoản hoặc mật khẩu</string>
+    <string name="goback">Quay lại</string>
+</resources>

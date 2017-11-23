@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dangky">15sp</dimen>
+    <dimen name="marginbottom">10dp</dimen>
+    <dimen name="chieucao_edt_dangnhap">35dp</dimen>
+    <dimen name="textsize_dangnhap">18sp</dimen>
+    <dimen name="margin_left_right_bottom">10dp</dimen>
+    <dimen name="padding_dangnhap">10dp</dimen>
+    <dimen name="chieurong_button_login">120dp</dimen>
+</resources>
